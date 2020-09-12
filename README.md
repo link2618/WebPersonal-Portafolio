@@ -1,3 +1,23 @@
+Proyecto creado con React JS usando Material-UI
+
+## Inicio
+
+Crear Proyecto: `npx create-react-app Nombre_del_proyecto`
+Instalar Material-UI: `yarn add @material-ui/core`
+Instalar iconoes `yarn add @material-ui/icons`
+
+[Documentacion de Material-UI](https://material-ui.com/)
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
